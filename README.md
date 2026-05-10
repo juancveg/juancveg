@@ -1,9 +1,9 @@
 # INTRODUCTION
 
 - 👋 Hi, I’m @juancveg.
-- 👀 I’m interested in Cybersecurity, Video Games and recently Artificial Intelligence.
+- 👀 I’m interested in Networks, Cybersecurity and Databases.
 - 🌱 I’m currently learning React, Node.js, JavaScript, PhP and TypeScript.
-- 💞️ I’m looking to collaborate on projects related to video games or web pages.
+- 💞️ I’m looking to collaborate on projects related to security.
 - 📫 How to reach me: send me a message by email
 - 😄 Pronouns: he/him
 
