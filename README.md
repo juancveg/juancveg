@@ -1,6 +1,6 @@
 # Hi, I'm Juan Vega 👋
 
-Systems Engineering student (10th semester) at Universidad Simón Bolívar, Barranquilla. I build fullstack web applications and have hands-on experience with networks, databases, and IT infrastructure. Open to new opportunities — presential, remote, or hybrid.
+Systems Engineering student (10th semester) at Universidad Simón Bolívar, Barranquilla. I build fullstack web applications and have hands-on experience with networks, cloud, and security. Open to new opportunities — presential, remote, or hybrid.
 
 ---
 
