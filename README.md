@@ -1,5 +1,5 @@
 # Hi, I'm Juan Vega 👋
-Systems Engineering student (10th semester) at Universidad Simón Bolívar, Barranquilla, focused on **networking, IT support, and infrastructure**. Cisco-backed foundation in IP addressing, switching, and routing, with hands-on experience analyzing local network traffic using Python and Scapy. Currently expanding into **cloud environments and cybersecurity**. Open to new opportunities — presential, remote, or hybrid.
+Systems Engineering student (10th semester) at Universidad Simón Bolívar, Barranquilla, with Cisco-backed expertise in routing & switching, VLAN segmentation, IP subnetting (VLSM), and network security (ACLs, Port Security). Skilled in diagnosing connectivity issues and analyzing network traffic with Python. Currently expanding into cloud environments and cybersecurity. Open to new opportunities — presential, remote, or hybrid.
 
 ---
 
