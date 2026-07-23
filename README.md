@@ -1,14 +1,13 @@
 # Hi, I'm Juan Vega 👋
-
 Systems Engineering student (10th semester) at Universidad Simón Bolívar, Barranquilla, focused on **networking, IT support, and infrastructure**. Cisco-backed foundation in IP addressing, switching, and routing, with hands-on experience analyzing local network traffic using Python and Scapy. Currently expanding into **cloud environments and cybersecurity**. Open to new opportunities — presential, remote, or hybrid.
 
 ---
 
 ## 🛠 Tech Stack
-
 **Networking & Infrastructure**
 ![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat&logo=cisco&logoColor=white)
 ![Networking](https://img.shields.io/badge/IP_Addressing_%26_VLSM-003366?style=flat&logo=cisco&logoColor=white)
+![VLANs](https://img.shields.io/badge/VLANs_%26_ACLs-00599C?style=flat&logo=cisco&logoColor=white)
 ![Scapy](https://img.shields.io/badge/Network_Analysis-Scapy-1E1E1E?style=flat&logo=python&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/Oracle_VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)
 
@@ -31,21 +30,13 @@ Systems Engineering student (10th semester) at Universidad Simón Bolívar, Barr
 
 ## 🚀 Featured Projects
 
+### [TechNova VLAN Lab](https://github.com/juancveg/technova-vlan-lab)
+Cisco Packet Tracer lab designing a segmented corporate network for a fictional company: 3 VLANs with inter-VLAN routing (router-on-a-stick), IP addressing via VLSM, DHCP per VLAN, an internal DNS/HTTP server, and Layer 2/3 security hardening (Port Security + extended ACLs). All results validated through reproducible connectivity tests.
+`Cisco Packet Tracer` `VLANs` `VLSM` `DHCP` `DNS` `ACLs` `Port Security`
+
 ### [Network Analyzer Dashboard](https://github.com/juancveg/Network-Analyzer-Dashboard)
 Interactive tool for local infrastructure monitoring: scans the network using ARP/ICMP with Python and Scapy, calculates IP addressing and subnets with VLSM for efficient segmentation, and visualizes topology through a star-layout dashboard for diagnosing and mapping connected nodes.
 `Python` `Scapy` `Networking` `VLSM` `IP Addressing`
-
-### [BuildSafe](https://github.com/jhanhrndz/buildsafe-frontend)
-Full platform for automated PPE (Personal Protective Equipment) monitoring on construction sites. Built and integrated the backend service (Python/Flask) connecting a YOLOv11 computer vision model for image-based safety detection, with cloud storage via Cloudinary and a MySQL data layer.
-`Python` `Flask` `YOLOv11` `MySQL` `Cloudinary`
-
-### [TransporMap](https://github.com/jhanhrndz/transpormap)
-Java application for real-time visualization of road and traffic conditions, with geolocation features and interactive incident reporting for transport operators, backed by an Oracle SQL database optimized for spatial data queries.
-`Java` `Oracle SQL` `Geolocation`
-
-### [TiendaYa](https://github.com/jhanhrndz/tiendaYa-project)
-E-commerce platform helping small local businesses in Barranquilla go digital, built with React, Node.js, Express, and MySQL.
-`React` `Node.js` `Express` `MySQL` `REST API`
 
 ---
 
