@@ -1,5 +1,5 @@
 # Hi, I'm Juan Vega 👋
-Systems Engineering student (10th semester) at Universidad Simón Bolívar, Barranquilla, with Cisco-backed expertise in routing & switching, VLAN segmentation, IP subnetting (VLSM), and network security (ACLs, Port Security). Skilled in diagnosing connectivity issues and analyzing network traffic with Python. Currently expanding into **cloud environments and cybersecurity**. Open to new opportunities — presential, remote, or hybrid.
+Systems Engineering student (10th semester) at Universidad Simón Bolívar, Barranquilla, with Cisco-backed expertise in routing & switching, VLAN segmentation, IP subnetting (VLSM), and network security (ACLs, Port Security). Skilled in diagnosing connectivity issues and analyzing network traffic with Python. Currently focused on deepening my networking skills and starting my journey into **cybersecurity**. Open to new opportunities — presential, remote, or hybrid.
 
 ---
 
@@ -21,13 +21,12 @@ Systems Engineering student (10th semester) at Universidad Simón Bolívar, Barr
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![VirtualBox](https://img.shields.io/badge/Oracle_VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)
 
-**Databases & Cloud**
+**Databases**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle_SQL-F80000?style=flat&logo=oracle&logoColor=white)
-![Cloud](https://img.shields.io/badge/Cloud_Fundamentals-4285F4?style=flat&logo=googlecloud&logoColor=white)
 
-**Currently Learning**
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Learning-D92B2B?style=flat&logo=hackthebox&logoColor=white)
+**Next Up**
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Getting_Started-D92B2B?style=flat&logo=hackthebox&logoColor=white)
 
 ---
 
