@@ -1,29 +1,45 @@
+<div align="center">
+
 # Hi, I'm Juan Vega 👋
-Systems Engineering student (10th semester) at Universidad Simón Bolívar, Barranquilla, with Cisco-backed expertise in routing & switching, VLAN segmentation, IP subnetting (VLSM), and network security (ACLs, Port Security). Skilled in diagnosing connectivity issues and analyzing network traffic with Python. Currently focused on deepening my networking skills and starting my journey into **cybersecurity**. Open to new opportunities — presential, remote, or hybrid.
+
+**Systems Engineering Student | Networks & Cybersecurity**
+
+</div>
+
+10th-semester Systems Engineering student focused on **network operations** and **IT infrastructure support**. I build practical tools applying real networking concepts — from **corporate VLAN architectures** with **ACL-based security** to **infrastructure monitoring with Zabbix** — backed by a certified B2 English level and a growing foundation in **cybersecurity**.
+
+🟢 **Available for opportunities** — presential, remote, or hybrid.
 
 ---
 
 ## 🛠 Tech Stack
 
 **Networking & Protocols**
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP_%26_OSI_Model-003366?style=flat&logo=cisco&logoColor=white)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-003366?style=flat&logo=cisco&logoColor=white)
+![Routing](https://img.shields.io/badge/Routing_%26_Switching-1BA0D7?style=flat&logo=cisco&logoColor=white)
+![VLANs](https://img.shields.io/badge/VLANs_%2F_802.1Q-00599C?style=flat&logo=cisco&logoColor=white)
+![VLSM](https://img.shields.io/badge/Subnetting_%2F_VLSM-0B4F6C?style=flat&logo=cisco&logoColor=white)
+![ACLs](https://img.shields.io/badge/ACLs_%26_Port_Security-004080?style=flat&logo=cisco&logoColor=white)
+
+**Network & Monitoring Tools**
 ![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat&logo=cisco&logoColor=white)
-![VLANs](https://img.shields.io/badge/VLANs_%26_Inter--VLAN_Routing-00599C?style=flat&logo=cisco&logoColor=white)
-![Security](https://img.shields.io/badge/ACLs_%26_Port_Security-004080?style=flat&logo=cisco&logoColor=white)
-![VLSM](https://img.shields.io/badge/IP_Addressing_%26_VLSM-0B4F6C?style=flat&logo=cisco&logoColor=white)
-![DHCP/DNS](https://img.shields.io/badge/DHCP_%26_DNS-1BA0D7?style=flat&logo=cisco&logoColor=white)
-
-**Network Monitoring & Scripting**
+![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=flat&logo=zabbix&logoColor=white)
+![SSH](https://img.shields.io/badge/SSH_Remote_Admin-000000?style=flat&logo=gnu-privacy-guard&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Scanning](https://img.shields.io/badge/ARP%2FICMP_Scanning-1E1E1E?style=flat&logo=python&logoColor=white)
 
-**Systems & Virtualization**
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+**Systems Administration**
+![Ubuntu](https://img.shields.io/badge/Ubuntu_Server-E95420?style=flat&logo=ubuntu&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux_CLI-FCC624?style=flat&logo=linux&logoColor=black)
 ![VirtualBox](https://img.shields.io/badge/Oracle_VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
 
 **Databases**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle_SQL-F80000?style=flat&logo=oracle&logoColor=white)
+
+**Version Control**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 **Next Up**
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Getting_Started-D92B2B?style=flat&logo=hackthebox&logoColor=white)
@@ -32,28 +48,31 @@ Systems Engineering student (10th semester) at Universidad Simón Bolívar, Barr
 
 ## 🚀 Featured Projects
 
-### [TechNova VLAN Lab](https://github.com/juancveg/technova-vlan-lab)
-Cisco Packet Tracer lab designing a segmented corporate network for a fictional company: 3 VLANs with inter-VLAN routing (router-on-a-stick), IP addressing via VLSM, DHCP per VLAN, an internal DNS/HTTP server, and Layer 2/3 security hardening (Port Security + extended ACLs). All results validated through reproducible connectivity tests.
-`Cisco Packet Tracer` `VLANs` `VLSM` `DHCP` `DNS` `ACLs` `Port Security`
+### 🔧 [Zabbix Network Monitoring Lab](https://github.com/juancveg/zabbix-monitoring-lab)
+Home lab monitoring setup built with **Zabbix on Ubuntu Server**, tracking host availability with tested alert triggers and a NOC-style dashboard — practicing real NOC L1 monitoring and troubleshooting workflows.
+`Zabbix` `Ubuntu Server` `MariaDB` `SSH` `VirtualBox` `ICMP` `Troubleshooting`
 
-### [Network Analyzer Dashboard](https://github.com/juancveg/Network-Analyzer-Dashboard)
-Network scanning and analysis tool in Python combining ARP table reads and multithreaded ICMP sweeps to detect active nodes on a local network, with an automated VLSM subnet calculator and an interactive HTML dashboard for real-time connectivity diagnostics.
-`Python` `ARP/ICMP` `VLSM` `Networking` `Multithreading`
+### 🌐 [TechNova — Corporate VLAN Lab](https://github.com/juancveg/technova-vlan-lab)
+Cisco Packet Tracer lab implementing a 3-VLAN corporate network with inter-VLAN routing (router-on-a-stick), VLSM, DHCP, DNS, Port Security, and extended ACLs — applying enterprise networking concepts end-to-end.
+`Cisco Packet Tracer` `VLANs` `802.1Q` `VLSM` `DHCP` `DNS` `ACLs` `Port Security`
+
+### 📡 [Network Analyzer Dashboard](https://github.com/juancveg/Network-Analyzer-Dashboard)
+Python tool that scans a local network via ARP and multithreaded ICMP sweeps, calculates subnets with VLSM, and visualizes the topology as an interactive dashboard — making networking theory concrete and measurable.
+`Python` `Scapy` `ARP` `ICMP` `VLSM` `Subnetting`
 
 ---
 
 ## 📜 Certifications
 
-- **Cisco Networking Academy** — Cisco Networking Basics *(2026)*
-- **EF SET English Certificate** — B2 Upper Intermediate *(2026)*
-- **Capacítate para el Empleo** — Administrador de Bases de Datos *(2025)*
+- **Cisco Networking Academy** — Networking Basics *(Jun 2026)*
+- **EF SET English Certificate** — B2 Upper Intermediate, Reading C2 *(Jul 2026)*
+- **Capacítate para el Empleo** — Database Administrator Course *(Sep 2025)*
 
 ---
 
-## 📫 Contact
+## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juancvegarojano/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/juancveg)
 [![Portfolio](https://img.shields.io/badge/Portfolio-05080f?style=flat&logo=vercel&logoColor=white)](https://juan-vega-portafolio.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:juanvegarojano@hotmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/573007854790)
