@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05080f,50:0B4F6C,100:0f2a1f&height=220&section=header&text=Juan%20Vega&fontSize=55&fontColor=22d3ee&fontAlignY=38&desc=NOC%20L1%20%26%20IT%20Infrastructure%20Support&descAlignY=58&descSize=18&descColor=34d399&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05080f,50:0B4F6C,100:0f2a1f&height=220&section=header&text=Juan%20Vega&fontSize=55&fontColor=22d3ee&fontAlignY=38&desc=NOC%20L1%20%7C%20IT%20Infrastructure%20Support&descAlignY=58&descSize=18&descColor=34d399&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=650&lines=Routing+%26+Switching+%7C+VLANs+%7C+VLSM;Network+Security+%E2%80%94+ACLs+%2B+Port+Security;NOC+L1+Monitoring+with+Zabbix;Starting+my+Cybersecurity+journey+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=650&lines=Routing+and+Switching+%7C+VLANs+%7C+VLSM;Network+Security+%E2%80%94+ACLs+%2B+Port+Security;NOC+L1+Monitoring+with+Zabbix;Starting+my+Cybersecurity+journey+%F0%9F%9A%80" alt="Typing SVG" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=juancveg&color=22d3ee&style=flat&label=Profile+Views)
 
