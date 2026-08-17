@@ -4,8 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=650&lines=Routing+and+Switching+%7C+VLANs+%7C+VLSM;Network+Security+%E2%80%94+ACLs+%2B+Port+Security;NOC+L1+Monitoring+with+Zabbix;Starting+my+Cybersecurity+journey+%F0%9F%9A%80" alt="Typing SVG" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=juancveg&color=22d3ee&style=flat&label=Profile+Views)
-
 </div>
 
 10th-semester Systems Engineering student focused on **network operations** and **IT infrastructure support**. I build practical tools applying real networking concepts — from **corporate VLAN architectures** with **ACL-based security** to **infrastructure monitoring with Zabbix** — backed by a certified B2 English level and a growing foundation in **cybersecurity**.
