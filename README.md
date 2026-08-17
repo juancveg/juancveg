@@ -57,8 +57,8 @@ Cisco Packet Tracer lab implementing a 3-VLAN corporate network with inter-VLAN 
 `Cisco Packet Tracer` `VLANs` `802.1Q` `VLSM` `DHCP` `DNS` `ACLs` `Port Security`
 
 ### 📡 [Network Analyzer Dashboard](https://github.com/juancveg/Network-Analyzer-Dashboard)
-Python tool that scans a local network via ARP and multithreaded ICMP sweeps, calculates subnets with VLSM, and visualizes the topology as an interactive dashboard — making networking theory concrete and measurable.
-`Python` `ARP` `ICMP` `VLSM` `Subnetting`
+Python tool that discovers active hosts on a local network by reading the OS ARP table and running a multithreaded ICMP ping sweep, calculates subnets with VLSM, and visualizes the topology as an interactive dashboard — making networking theory concrete and measurable.
+`Python` `Sockets` `Subprocess` `ARP` `ICMP` `VLSM` `Multithreading`
 
 ---
 
